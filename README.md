@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=strongcourage)
+![My github stats](https://github-readme-stats.vercel.app/api?username=strongcourage&show_icons=true&theme=monokai)
 
 <!--
 **strongcourage/strongcourage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="60" height="21" src="https://github-readme-stats.vercel.app/api?username=strongcourage&show_icons=true&theme=monokai"/>
+<img width="60" height="21" src="https://views.whatilearened.today/views/github/strongcourage/strongcourage.svg"/>
