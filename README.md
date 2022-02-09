@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="60" height="21" src="https://views.whatilearened.today/views/github/strongcourage/strongcourage.svg"/>
+<img width="60" height="21" src="https://github-readme-stats.vercel.app/api?username=strongcourage&show_icons=true&theme=monokai"/>
