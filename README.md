@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Twitter: _strongcourage](https://img.shields.io/twitter/follow/_strongcourage)](https://twitter.com/_strongcourage)
 <img width="60" height="21" src="https://views.whatilearened.today/views/github/strongcourage/strongcourage.svg"/>
