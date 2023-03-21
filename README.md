@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=strongcourage&show_icons=true&theme=monokai)
+![My github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=strongcourage&show_icons=true&theme=monokai)
 
 <!--
 **strongcourage/strongcourage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
