@@ -2,6 +2,8 @@
 
 ![My github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=strongcourage&show_icons=true&theme=monokai)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=strongcourage)](https://git.io/streak-stats)
+
 <!--
 **strongcourage/strongcourage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
